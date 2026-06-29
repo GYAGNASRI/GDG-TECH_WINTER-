@@ -5,7 +5,7 @@ This hackathon explores how you can build impactful solutions tailored to Indiaâ
 
 This hackathon involves :
 * Indiaâ€™s Focus on SDGs
-*Ideation Sessions
-*Tech Tools for Development
-*Team Building and Networking
-*Mentorship Opportunities
+* Ideation Sessions
+* Tech Tools for Development
+* Team Building and Networking
+* Mentorship Opportunities
